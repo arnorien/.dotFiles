@@ -26,5 +26,5 @@ set scrolloff=5 " Keep 3 lines below and above the cursor
 """""""""""""""""""""""""""""""""
 " Afficher les caractère masqués
 """""""""""""""""""""""""""""""""
-set list
-set listchars=eol:⏎,tab:␉·,trail:␠,nbsp:⎵
+"set list
+"set listchars=eol:⏎,tab:␉·,trail:␠,nbsp:⎵
