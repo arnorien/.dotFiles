@@ -22,6 +22,7 @@ set smartcase
 set shiftwidth=4
 set tabstop=4
 set scrolloff=5 " Keep 3 lines below and above the cursor
+set showcmd
 
 """""""""""""""""""""""""""""""""
 " Afficher les caractère masqués
