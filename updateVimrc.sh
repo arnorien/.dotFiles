@@ -2,4 +2,4 @@
 
 rm $HOME/.vimrc.old
 mv $HOME/.vimrc $HOME/.vimrc.old
-cp .vimrc $HOME/.vimrc
+cp vimrc $HOME/.vimrc

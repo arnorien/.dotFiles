@@ -2,4 +2,4 @@
 
 rm $HOME/.zshrc.old
 mv $HOME/.zshrc $HOME/.zshrc.old
-cp .zshrc $HOME/.zshrc
+cp zshrc $HOME/.zshrc
