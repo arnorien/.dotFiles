@@ -15,7 +15,7 @@ set wrap
 set lbr
 set spl=fr
 syntax on
-colorscheme default
+colorscheme koehler
 set hlsearch
 set ignorecase
 set smartcase
