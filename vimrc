@@ -41,3 +41,4 @@ set si " Smartindent
 
 " Status line
 set laststatus=2
+set showcmd
