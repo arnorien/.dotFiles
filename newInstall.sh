@@ -2,7 +2,7 @@
 
 # Mise à jour et installation des paquets
 sudo apt update
-sudo apt install git vim zsh thefuck curl wget
+sudo apt install git vim zsh thefuck curl wget shellcheck
 sudo apt upgrade && sudo apt dist-upgrade
 
 # Installation de Oh-my-zsh et zsh-syntax-highlighting plugin
